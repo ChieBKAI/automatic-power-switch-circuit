@@ -27,7 +27,9 @@ The circuit design follows a modular approach, with separate modules for the inf
 The infrared sensor module detects the presence or absence of an object, triggering the countdown timer. The time delay can be adjusted using the DIP switches, which set the initial value for the countdown timer based on binary weighting. As the countdown progresses, the 7-segment displays show the remaining time. When the timer reaches zero, the relay module opens, cutting off the power supply.
 
 The circuit is designed using Altium Designer software, with the schematic capture, PCB layout, and 3D rendering included in the project files.
-![](https://imgur.com/a/Fk9S474)
+![](https://i.imgur.com/AF5vq47.png)
+![](https://i.imgur.com/ClULvM9.png)
+![](https://i.imgur.com/AOiqcRz.png)
 
 ## Usage
 1. Connect the circuit to a 12V power supply.
