@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=5V Pin=7404-14
+Removed Pin From Net: NetName=Net7447A_7 Pin=IC4-1
+Removed Pin From Net: NetName=Net7447A_6 Pin=IC4-2
+Removed Pin From Net: NetName=5V Pin=IC4-14
+Removed Pin From Net: NetName=5V Pin=IC7-14
+Added Pin To Net: NetName=VCC Pin=7404-14
+Added Pin To Net: NetName=Net7447A_6 Pin=IC4-1
+Added Pin To Net: NetName=Net7447A_7 Pin=IC4-2
+Added Pin To Net: NetName=VCC Pin=IC4-14
+Added Pin To Net: NetName=VCC Pin=IC5-14
+Added Pin To Net: NetName=VCC Pin=IC7-14
+Added Room: Name=auto-on-relay

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=5V Pin=7404-14
+Removed Pin From Net: NetName=5V Pin=IC4-14
+Removed Pin From Net: NetName=5V Pin=IC5-14
+Removed Pin From Net: NetName=5V Pin=IC7-14
+Removed Pin From Net: NetName=12V-2A Pin=Q1-1
+Removed Pin From Net: NetName=NetD3_1 Pin=Q1-2
+Change Component Designator: OldDesignator=AB NewDesignator=LED5
+Added Pin To Net: NetName=VCC Pin=7404-14
+Added Pin To Net: NetName=VCC Pin=IC4-14
+Added Pin To Net: NetName=VCC Pin=IC5-14
+Added Pin To Net: NetName=VCC Pin=IC7-14
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=12V-2A Pin=Q1-2
+Added Room: Name=auto-on-relay

@@ -1,0 +1,70 @@
+Change Component Designator: OldDesignator=IC1 NewDesignator=LM358
+Change Component Designator: OldDesignator=IC3 NewDesignator=74190A
+Change Component Designator: OldDesignator=IC6 NewDesignator=74190B
+Change Component Designator: OldDesignator=U1 NewDesignator=NE555
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-3
+Add Pin To Net: Unknown Pin: Pin S3-1
+Add Pin To Net: Unknown Pin: Pin S3-3
+Add Pin To Net: Unknown Pin: Pin S4-1
+Add Pin To Net: Unknown Pin: Pin S4-3
+Add Pin To Net: Unknown Pin: Pin S5-1
+Add Pin To Net: Unknown Pin: Pin S5-3
+Add Pin To Net: Unknown Pin: Pin S6-1
+Add Pin To Net: Unknown Pin: Pin S6-3
+Add Pin To Net: Unknown Pin: Pin S7-1
+Add Pin To Net: Unknown Pin: Pin S7-3
+Add Pin To Net: Unknown Pin: Pin S8-1
+Add Pin To Net: Unknown Pin: Pin S8-3
+Add Pin To Net: Unknown Pin: Pin S9-1
+Add Pin To Net: Unknown Pin: Pin S9-3
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=NetIC2_1
+Change Net Name : Old Net Name=NetIC1_2 New Net Name=NetLM358_2
+Change Net Name : Old Net Name=NetIC1_4 New Net Name=NetLED4_2
+Change Net Name : Old Net Name=NetIC3_14 New Net Name=Net74190A_14
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetNE555_7
+Added Pin To Net: NetName=Net74190A_1 Pin=74190A-1
+Added Pin To Net: NetName=Net74190A_1 Pin=LED8-1
+Added Net: Name=Net74190A_1
+Added Pin To Net: NetName=Net74190A_9 Pin=74190A-9
+Added Pin To Net: NetName=Net74190A_9 Pin=LED6-1
+Added Net: Name=Net74190A_9
+Added Pin To Net: NetName=Net74190A_10 Pin=74190A-10
+Added Pin To Net: NetName=Net74190A_10 Pin=LED7-1
+Added Net: Name=Net74190A_10
+Added Pin To Net: NetName=Net74190A_15 Pin=74190A-15
+Added Pin To Net: NetName=Net74190A_15 Pin=LED9-1
+Added Net: Name=Net74190A_15
+Added Pin To Net: NetName=Net74190B_1 Pin=74190B-1
+Added Pin To Net: NetName=Net74190B_1 Pin=LED12-1
+Added Net: Name=Net74190B_1
+Added Pin To Net: NetName=Net74190B_9 Pin=74190B-9
+Added Pin To Net: NetName=Net74190B_9 Pin=LED10-1
+Added Net: Name=Net74190B_9
+Added Pin To Net: NetName=Net74190B_10 Pin=74190B-10
+Added Pin To Net: NetName=Net74190B_10 Pin=LED11-1
+Added Net: Name=Net74190B_10
+Added Pin To Net: NetName=Net74190B_15 Pin=74190B-15
+Added Pin To Net: NetName=Net74190B_15 Pin=LED13-1
+Added Net: Name=Net74190B_15
+Add Class Member: Failed to add class member : Component S1 SS12D00G3
+Add Class Member: Failed to add class member : Component S2 SS12D00G3
+Add Class Member: Failed to add class member : Component S3 SS12D00G3
+Add Class Member: Failed to add class member : Component S4 SS12D00G3
+Add Class Member: Failed to add class member : Component S5 SS12D00G3
+Add Class Member: Failed to add class member : Component S6 SS12D00G3
+Add Class Member: Failed to add class member : Component S7 SS12D00G3
+Add Class Member: Failed to add class member : Component S8 SS12D00G3
+Add Class Member: Failed to add class member : Component S9 SS12D00G3
+Added Room: Name=auto-on-relay

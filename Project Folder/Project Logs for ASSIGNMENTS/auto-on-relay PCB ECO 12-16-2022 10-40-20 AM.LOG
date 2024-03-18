@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=AB NewDesignator=LED5
+Added Pin To Net: NetName=Net7447A_3 Pin=7805-3
+Added Pin To Net: NetName=Net7447A_3 Pin=C3-1
+Added Pin To Net: NetName=Net7447A_3 Pin=C4-1
+Added Pin To Net: NetName=Net7447A_3 Pin=IC7-1
+Added Pin To Net: NetName=Net7447A_3 Pin=LM358-3
+Added Pin To Net: NetName=Net7447A_3 Pin=LM358-8
+Added Pin To Net: NetName=Net7447A_3 Pin=NE555-8
+Added Pin To Net: NetName=Net7447A_3 Pin=Phat-1
+Added Pin To Net: NetName=Net7447A_3 Pin=R3-2
+Added Pin To Net: NetName=Net7447A_3 Pin=R10-2
+Added Pin To Net: NetName=Net7447A_3 Pin=Thu-2
+Added Pin To Net: NetName=Net7447A_3 Pin=VR1-1
+Change Net Name : Old Net Name=Net7447A_3 New Net Name=5V
+Added Pin To Net: NetName=NE555_3 Pin=74190B-14
+Added Pin To Net: NetName=NE555_3 Pin=NE555-3
+Added Net: Name=NE555_3
+Added Pin To Net: NetName=Out-HN Pin=7404-2
+Added Pin To Net: NetName=Out-HN Pin=74190A-11
+Added Pin To Net: NetName=Out-HN Pin=74190B-11
+Added Net: Name=Out-HN
+Added Room: Name=auto-on-relay

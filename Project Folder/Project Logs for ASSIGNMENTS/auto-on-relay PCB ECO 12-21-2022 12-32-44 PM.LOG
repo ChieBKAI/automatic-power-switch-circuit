@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=12V-2A Pin=Q1-2
+Removed Pin From Net: NetName=NetD3_1 Pin=Relay-4
+Removed Pin From Net: NetName=12V-2A Pin=Relay-5
+Added Pin To Net: NetName=NetD3_1 Pin=Q1-2
+Added Pin To Net: NetName=12V-2A Pin=Relay-4
+Added Pin To Net: NetName=NetD3_1 Pin=Relay-5
+Added Room: Name=auto-on-relay

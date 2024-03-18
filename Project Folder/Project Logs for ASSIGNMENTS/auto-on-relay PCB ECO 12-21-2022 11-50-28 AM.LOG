@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=5V Pin=7404-14
+Removed Pin From Net: NetName=5V Pin=7408-14
+Removed Pin From Net: NetName=5V Pin=7432A-14
+Removed Pin From Net: NetName=5V Pin=IC5-14
+Change Component Designator: OldDesignator=7408 NewDesignator=IC7
+Change Component Designator: OldDesignator=7432A NewDesignator=IC4
+Added Pin To Net: NetName=VCC Pin=7404-14
+Added Pin To Net: NetName=Net7805_1 Pin=D3-2
+Added Pin To Net: NetName=VCC Pin=IC4-14
+Added Pin To Net: NetName=VCC Pin=IC5-14
+Added Pin To Net: NetName=VCC Pin=IC7-14
+Added Pin To Net: NetName=Net7805_1 Pin=Q1-1
+Added Pin To Net: NetName=Net7805_1 Pin=Relay-4
+Change Net Name : Old Net Name=Net7805_1 New Net Name=12V-2A
+Added Member To Class: ClassName=auto-on-relay Member=Component 7404
+Added Member To Class: ClassName=auto-on-relay Member=Component LM358
+Added Room: Name=auto-on-relay

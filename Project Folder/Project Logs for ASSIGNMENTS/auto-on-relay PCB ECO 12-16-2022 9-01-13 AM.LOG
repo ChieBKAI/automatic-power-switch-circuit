@@ -1,0 +1,65 @@
+Removed Pin From Net: NetName=Net74190A_9 Pin=LED6-1
+Removed Pin From Net: NetName=Net74190A_10 Pin=LED7-1
+Removed Pin From Net: NetName=Net74190A_1 Pin=LED8-1
+Removed Pin From Net: NetName=Net74190A_15 Pin=LED9-1
+Removed Pin From Net: NetName=Net74190B_9 Pin=LED10-1
+Removed Pin From Net: NetName=Net74190B_10 Pin=LED11-1
+Removed Pin From Net: NetName=Net74190B_1 Pin=LED12-1
+Removed Pin From Net: NetName=Net74190B_15 Pin=LED13-1
+Removed Pin From Net: NetName=GND Pin=R12-1
+Change Component Comment : Designator=R12 Old Comment=20 New Comment=150
+Added Component: Designator=R13(R1/4W)
+Added Component: Designator=R14(R1/4W)
+Added Component: Designator=R15(R1/4W)
+Added Component: Designator=R16(R1/4W)
+Added Component: Designator=R17(R1/4W)
+Added Component: Designator=R18(R1/4W)
+Added Component: Designator=R19(R1/4W)
+Added Pin To Net: NetName=GND Pin=LED6-2
+Added Pin To Net: NetName=GND Pin=LED7-2
+Added Pin To Net: NetName=GND Pin=LED8-2
+Added Pin To Net: NetName=GND Pin=LED9-2
+Added Pin To Net: NetName=GND Pin=LED10-2
+Added Pin To Net: NetName=GND Pin=LED11-2
+Added Pin To Net: NetName=GND Pin=LED12-2
+Added Pin To Net: NetName=GND Pin=LED13-2
+Added Pin To Net: NetName=Net74190A_9 Pin=R12-2
+Added Pin To Net: NetName=Net74190A_10 Pin=R13-2
+Added Pin To Net: NetName=Net74190A_1 Pin=R14-2
+Added Pin To Net: NetName=Net74190A_15 Pin=R15-2
+Added Pin To Net: NetName=Net74190B_9 Pin=R16-2
+Added Pin To Net: NetName=Net74190B_10 Pin=R17-2
+Added Pin To Net: NetName=Net74190B_1 Pin=R18-2
+Added Pin To Net: NetName=Net74190B_15 Pin=R19-2
+Added Pin To Net: NetName=NetLED6_1 Pin=LED6-1
+Added Pin To Net: NetName=NetLED6_1 Pin=R12-1
+Added Net: Name=NetLED6_1
+Added Pin To Net: NetName=NetLED7_1 Pin=LED7-1
+Added Pin To Net: NetName=NetLED7_1 Pin=R13-1
+Added Net: Name=NetLED7_1
+Added Pin To Net: NetName=NetLED8_1 Pin=LED8-1
+Added Pin To Net: NetName=NetLED8_1 Pin=R14-1
+Added Net: Name=NetLED8_1
+Added Pin To Net: NetName=NetLED9_1 Pin=LED9-1
+Added Pin To Net: NetName=NetLED9_1 Pin=R15-1
+Added Net: Name=NetLED9_1
+Added Pin To Net: NetName=NetLED10_1 Pin=LED10-1
+Added Pin To Net: NetName=NetLED10_1 Pin=R16-1
+Added Net: Name=NetLED10_1
+Added Pin To Net: NetName=NetLED11_1 Pin=LED11-1
+Added Pin To Net: NetName=NetLED11_1 Pin=R17-1
+Added Net: Name=NetLED11_1
+Added Pin To Net: NetName=NetLED12_1 Pin=LED12-1
+Added Pin To Net: NetName=NetLED12_1 Pin=R18-1
+Added Net: Name=NetLED12_1
+Added Pin To Net: NetName=NetLED13_1 Pin=LED13-1
+Added Pin To Net: NetName=NetLED13_1 Pin=R19-1
+Added Net: Name=NetLED13_1
+Added Member To Class: ClassName=auto-on-relay Member=Component R13 150
+Added Member To Class: ClassName=auto-on-relay Member=Component R14 150
+Added Member To Class: ClassName=auto-on-relay Member=Component R15 150
+Added Member To Class: ClassName=auto-on-relay Member=Component R16 150
+Added Member To Class: ClassName=auto-on-relay Member=Component R17 150
+Added Member To Class: ClassName=auto-on-relay Member=Component R18 150
+Added Member To Class: ClassName=auto-on-relay Member=Component R19 150
+Added Room: Name=auto-on-relay

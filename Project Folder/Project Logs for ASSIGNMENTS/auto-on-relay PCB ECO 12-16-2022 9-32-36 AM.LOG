@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetLED2_1 Pin=LED2-1
+Removed Pin From Net: NetName=NetLED4_2 Pin=R1-1
+Removed Member From Class: ClassName=auto-on-relay Member=LED2
+Removed Member From Class: ClassName=auto-on-relay Member=R1
+Change Net Name : Old Net Name=NetLED2_1 New Net Name=NetLM358_3
+Added Room: Name=auto-on-relay

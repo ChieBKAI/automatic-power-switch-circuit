@@ -1,0 +1,55 @@
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Added Component: Designator=SAB(SS12D00G3)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://vimex.com/switches/techdocs/SS12D00-tech.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vimex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SS12D00G3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-2
+Add Pin To Net: Unknown Pin: Pin S2-3
+Add Pin To Net: Unknown Pin: Pin S3-1
+Add Pin To Net: Unknown Pin: Pin S3-2
+Add Pin To Net: Unknown Pin: Pin S3-3
+Add Pin To Net: Unknown Pin: Pin S4-1
+Add Pin To Net: Unknown Pin: Pin S4-2
+Add Pin To Net: Unknown Pin: Pin S4-3
+Add Pin To Net: Unknown Pin: Pin S5-1
+Add Pin To Net: Unknown Pin: Pin S5-2
+Add Pin To Net: Unknown Pin: Pin S5-3
+Add Pin To Net: Unknown Pin: Pin S6-1
+Add Pin To Net: Unknown Pin: Pin S6-2
+Add Pin To Net: Unknown Pin: Pin S6-3
+Add Pin To Net: Unknown Pin: Pin S7-1
+Add Pin To Net: Unknown Pin: Pin S7-2
+Add Pin To Net: Unknown Pin: Pin S7-3
+Add Pin To Net: Unknown Pin: Pin S8-1
+Add Pin To Net: Unknown Pin: Pin S8-2
+Add Pin To Net: Unknown Pin: Pin S8-3
+Add Pin To Net: Unknown Pin: Pin S9-1
+Add Pin To Net: Unknown Pin: Pin S9-2
+Add Pin To Net: Unknown Pin: Pin S9-3
+Added Pin To Net: NetName=NetR7_1 Pin=SAB-2
+Added Pin To Net: NetName=Net7447A_3 Pin=SAB-3
+Add Class Member: Failed to add class member : Component S2 SS12D00G3
+Add Class Member: Failed to add class member : Component S3 SS12D00G3
+Add Class Member: Failed to add class member : Component S4 SS12D00G3
+Add Class Member: Failed to add class member : Component S5 SS12D00G3
+Add Class Member: Failed to add class member : Component S6 SS12D00G3
+Add Class Member: Failed to add class member : Component S7 SS12D00G3
+Add Class Member: Failed to add class member : Component S8 SS12D00G3
+Add Class Member: Failed to add class member : Component S9 SS12D00G3
+Added Member To Class: ClassName=auto-on-relay Member=Component SAB SS12D00G3
+Added Room: Name=auto-on-relay

@@ -1,0 +1,8 @@
+Change Component Comment : Designator=R3 Old Comment=10k New Comment=150
+Change Component Comment : Designator=C5 Old Comment=C New Comment=10nF
+Change Component Comment : Designator=C6 Old Comment=C New Comment=47uF
+Change Component Comment : Designator=C2 Old Comment=C New Comment=104
+Change Component Comment : Designator=C3 Old Comment=C New Comment=104
+Change Component Comment : Designator=C1 Old Comment=C New Comment=1000uF
+Change Component Comment : Designator=C4 Old Comment=C New Comment=1000uF
+Added Room: Name=auto-on-relay

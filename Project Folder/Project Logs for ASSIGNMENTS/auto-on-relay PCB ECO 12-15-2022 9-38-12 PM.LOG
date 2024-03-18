@@ -1,0 +1,72 @@
+Change Component Comment : Designator=DS1 Old Comment=7SEG S New Comment=Led 7A
+Change Component Comment : Designator=DS2 Old Comment=7SEG S New Comment=Led 7B
+Change Component Designator: OldDesignator=LED6 NewDesignator=A3
+Change Component Designator: OldDesignator=LED7 NewDesignator=A2
+Change Component Designator: OldDesignator=LED8 NewDesignator=A1
+Change Component Designator: OldDesignator=LED9 NewDesignator=A0
+Change Component Designator: OldDesignator=LED10 NewDesignator=B3
+Change Component Designator: OldDesignator=LED11 NewDesignator=B2
+Change Component Designator: OldDesignator=LED12 NewDesignator=B1
+Change Component Designator: OldDesignator=LED13 NewDesignator=B0
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Component: Footprint Not Found SS12D00G3
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin S1-3
+Add Pin To Net: Unknown Pin: Pin S2-1
+Add Pin To Net: Unknown Pin: Pin S2-3
+Add Pin To Net: Unknown Pin: Pin S3-1
+Add Pin To Net: Unknown Pin: Pin S3-3
+Add Pin To Net: Unknown Pin: Pin S4-1
+Add Pin To Net: Unknown Pin: Pin S4-3
+Add Pin To Net: Unknown Pin: Pin S5-1
+Add Pin To Net: Unknown Pin: Pin S5-3
+Add Pin To Net: Unknown Pin: Pin S6-1
+Add Pin To Net: Unknown Pin: Pin S6-3
+Add Pin To Net: Unknown Pin: Pin S7-1
+Add Pin To Net: Unknown Pin: Pin S7-3
+Add Pin To Net: Unknown Pin: Pin S8-1
+Add Pin To Net: Unknown Pin: Pin S8-3
+Add Pin To Net: Unknown Pin: Pin S9-1
+Add Pin To Net: Unknown Pin: Pin S9-3
+Change Net Name : Old Net Name=NetLED6_2 New Net Name=NetA0_2
+Added Pin To Net: NetName=NetA0_1 Pin=A0-1
+Added Pin To Net: NetName=NetA0_1 Pin=IC4-15
+Added Net: Name=NetA0_1
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=IC4-1
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA2_1 Pin=A2-1
+Added Pin To Net: NetName=NetA2_1 Pin=IC4-10
+Added Net: Name=NetA2_1
+Added Pin To Net: NetName=NetA3_1 Pin=A3-1
+Added Pin To Net: NetName=NetA3_1 Pin=IC4-9
+Added Net: Name=NetA3_1
+Added Pin To Net: NetName=NetB0_1 Pin=B0-1
+Added Pin To Net: NetName=NetB0_1 Pin=IC8-15
+Added Net: Name=NetB0_1
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=IC8-1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB2_1 Pin=B2-1
+Added Pin To Net: NetName=NetB2_1 Pin=IC8-10
+Added Net: Name=NetB2_1
+Added Pin To Net: NetName=NetB3_1 Pin=B3-1
+Added Pin To Net: NetName=NetB3_1 Pin=IC8-9
+Added Net: Name=NetB3_1
+Add Class Member: Failed to add class member : Component S1 SS12D00G3
+Add Class Member: Failed to add class member : Component S2
+Add Class Member: Failed to add class member : Component S3
+Add Class Member: Failed to add class member : Component S4
+Add Class Member: Failed to add class member : Component S5
+Add Class Member: Failed to add class member : Component S6 SS12D00G3
+Add Class Member: Failed to add class member : Component S7 SS12D00G3
+Add Class Member: Failed to add class member : Component S8 SS12D00G3
+Add Class Member: Failed to add class member : Component S9 SS12D00G3
+Added Room: Name=auto-on-relay
